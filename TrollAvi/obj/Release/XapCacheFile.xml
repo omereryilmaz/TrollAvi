@@ -1,0 +1,14 @@
+﻿<xapCache source="D:\WPoyun\TrollAvi\TrollAvi\Bin\Release\TrollAvi_Release_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="25.5.2014 15:35:45">
+  <file source="D:\WPoyun\TrollAvi\TrollAvi\obj\Release\TrollAvi.dll" archivePath="TrollAvi.dll" lastWriteTime="25.5.2014 15:35:43" />
+  <file source="D:\WPoyun\TrollAvi\TrollAvi\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="31.7.2013 06:15:08" />
+  <file source="D:\WPoyun\TrollAvi\TrollAvi\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="31.7.2013 06:15:08" />
+  <file source="D:\WPoyun\TrollAvi\TrollAvi\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="31.7.2013 06:15:08" />
+  <file source="D:\WPoyun\TrollAvi\TrollAvi\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="31.7.2013 06:15:08" />
+  <file source="D:\WPoyun\TrollAvi\TrollAvi\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="31.7.2013 06:15:08" />
+  <file source="D:\WPoyun\TrollAvi\TrollAvi\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="31.7.2013 06:15:08" />
+  <file source="D:\WPoyun\TrollAvi\TrollAvi\icon.png" archivePath="icon.png" lastWriteTime="7.5.2014 01:26:16" />
+  <file source="D:\WPoyun\TrollAvi\TrollAvi\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="8.5.2014 22:16:23" />
+  <file source="D:\WPoyun\TrollAvi\TrollAvi\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="31.7.2013 06:15:08" />
+  <file source="D:\WPoyun\TrollAvi\TrollAvi\icon2.png" archivePath="icon2.png" lastWriteTime="8.5.2014 21:51:56" />
+  <file source="D:\WPoyun\TrollAvi\TrollAvi\Bin\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="8.5.2014 22:16:23" />
+</xapCache>
