@@ -1,4 +1,4 @@
 TrollAvi
 ========
 
-Windows Phone Game (ilk oyunum)
+Windows Phone Game (ilk oyunum).
