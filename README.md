@@ -4,4 +4,4 @@ TrollAvi
 Windows Phone Game (ilk oyunum).
 
 ### ScreenShots
-![My image](img/logogoss.jpg)
+![My image](omereryilmaz.github.com/repository/img/troll.png)
